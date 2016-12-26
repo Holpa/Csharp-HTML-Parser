@@ -1,0 +1,3 @@
+C:\Users\Ahmad\Desktop\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\ParserJsonSiteSecure.exe.config
+C:\Users\Ahmad\Desktop\ParserJsonSiteSecure\ParserJsonSiteSecure\obj\Debug\ParserJsonSiteSecure.exe
+C:\Users\Ahmad\Desktop\ParserJsonSiteSecure\ParserJsonSiteSecure\obj\Debug\ParserJsonSiteSecure.pdb

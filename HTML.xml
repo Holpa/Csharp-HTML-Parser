@@ -1,0 +1,17 @@
+
+<vehicle type=\"string\">0614</vehicle>\r\n 
+ <report type=\"string\">ChefdfghfhfsfdsfskIn</report>\r\n  
+<gps type=\"string\">45.552928,-73.735628</gps>\r\n  
+<DOP type=\"string\">1.0</DOP>\r\n  
+<inventory type=\"object\">\r\n    
+<tags type=\"array\">\r\n      
+<item type=\"string\">00001371 1</item>\r\n      
+<item type=\"string\">00001369 1</item>\r\n      
+<item type=\"string\">00001372 1</item>\r\n      
+<item type=\"string\">00001365 1</item>\r\n      
+<item type=\"string\">00000000 0 45.552928,-73.735678</item>\r\n     
+ <item type=\"string\">000012E6 1</item>\r\n   
+   <item type=\"string\">000012DB 1</item>\r\n  
+    <item type=\"string\">0000136F 1</item>\r\n      
+<item type=\"string\">00001234 1</item>\r\n    
+</tags>\r\n  </inventory>\r\n

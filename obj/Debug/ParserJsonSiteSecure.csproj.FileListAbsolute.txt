@@ -1,0 +1,15 @@
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\ParserJsonSiteSecure.exe.config
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\obj\Debug\ParserJsonSiteSecure.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\ParserJsonSiteSecure.exe
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\ParserJsonSiteSecure.pdb
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\obj\Debug\ParserJsonSiteSecure.exe
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\obj\Debug\ParserJsonSiteSecure.pdb
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ahmad\Documents\Cpp\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahmad\Desktop\ParserJsonSiteSecure\ParserJsonSiteSecure\bin\Debug\ParserJsonSiteSecure.exe.config
+C:\Users\Ahmad\Desktop\ParserJsonSiteSecure\ParserJsonSiteSecure\obj\Debug\ParserJsonSiteSecure.exe
+C:\Users\Ahmad\Desktop\ParserJsonSiteSecure\ParserJsonSiteSecure\obj\Debug\ParserJsonSiteSecure.pdb
